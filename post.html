@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PostAJob</title>
+    <link rel="stylesheet" href="post.css">
+</head>
+<body>
+
+    <nav>
+        <div class="left">
+            <p>TallentSync</p>
+        </div>
+        <div class="right">
+            <a href="../index.html">Home</a>
+            <a href="../AboutUs/about.html">About</a>
+            <a href="./contact.html">contact</a>
+            <div class="btns">
+                <a href="../PostAJob/post.html"><button id="post">Post a Job</button></a>
+                <a href="../index.html#Categories"><button id="Want">Want a Job</button></a>
+            </div>
+        </div>
+    </nav>
+    <h1 id="heading">Post a Job</h1>
+    <form action="#" class="form">
+        
+        <label class="lbl" for="fullname">Job Title</label>
+        <input type="text" id="fullname" class="form-control" placeholder="eg. Professional UI/UX Designer">
+
+        <label class="lbl" for="fullname">Company</label>
+        <input type="text" id="fullname" class="form-control" placeholder="eg. Facebook, Inc.">
+
+        <h3>Job Type</h3>
+        <label for="option-job-type-1" class="option">
+        <input type="radio" id="option-job-type-1" name="job-type"> Full Time
+        </label>
+        
+        <label for="option-job-type-2" class="option">
+        <input type="radio" id="option-job-type-2" name="job-type"> Part Time
+        </label>
+
+        <label for="option-job-type-3" class="option">
+        <input type="radio" id="option-job-type-3" name="job-type"> Freelance
+        </label>
+
+        <label for="option-job-type-4" class="option">
+        <input type="radio" id="option-job-type-4" name="job-type"> Internship
+        </label>
+
+        <label for="option-job-type-4" class="option">
+        <input type="radio" id="option-job-type-4" name="job-type"> Termporary
+        </label>
+
+        <h3>Location</h3>
+        <input type="text" class="form-control" placeholder="Western City, UK">
+
+        <h3>Job Description</h3>
+        <textarea name="" class="form-message" id="" cols="30" rows="5"></textarea>
+
+        <input type="submit" value="Post" class="send">
+
+    </form>
+</body>
+</html>
