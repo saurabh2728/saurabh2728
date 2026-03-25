@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @saurabh2728
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Full-Stack Development, Cloud Computing, and Scalable Web Applications
+🌱 I’m currently learning Data Structures & Algorithms, Backend Development, and Cloud Technologies
+💞️ I’m looking to collaborate on Open Source Projects, Cloud-based Applications, and Real-World Solutions
+📫 How to reach me: saurabhsaroj856@gmail.com
 
-<!---
-saurabh2728/saurabh2728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
